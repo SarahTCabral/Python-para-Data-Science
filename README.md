@@ -1,2 +1,2 @@
 # Python-para-Data-Science
-Projetos para estudar python voltado para análise de dados
+Projeto de python voltado para Data Science introdutório.
